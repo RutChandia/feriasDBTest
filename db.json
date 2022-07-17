@@ -101,6 +101,18 @@
     "nombre": "CASAS VIEJAS 1",
     "lugar": "Laja, entre Av. Circunvalación Charles Aránguiz y Marcos Pérez",
     "dia": "Martes"
+  },
+    {
+    "comuna": "Quilicura",
+    "nombre": "TOCONAO",
+    "lugar": "Toconao, entre Valle de la Luna y San Luis",
+    "dia": "Jueves"
+  },
+  {
+    "comuna": "Quinta Normal",
+    "nombre": "JOSÉ BESA",
+    "lugar": "José Besa, entre Av. San Pablo y Vicuña Rozas",
+    "dia": "Martes"
   },  
     {
       "comuna": "Vitacura",
