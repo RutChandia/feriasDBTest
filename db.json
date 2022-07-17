@@ -12,12 +12,12 @@
       "lugar": "Lo López, entre Neptuno y Domingo Faustino Sarmiento",
       "dia": "Martes y Viernes"
     },
-    {
-      "comuna": "Conchalí",
-      "nombre": "NAHUELBUTA",
-      "lugar": "Nahuelbuta, entre Dos Oriente y Puntiagudo",
-      "dia": "Jueves"
-    },
+  {
+    "comuna": "Santiago",
+    "nombre": "ALDUNATE",
+    "lugar": "Aldunate, entre Copiapó y Coquimbo",
+    "dia": "Jueves y Domingo"
+  },
     {
       "comuna": "Conchalí",
       "nombre": "LOS ACACIOS",
@@ -30,12 +30,12 @@
       "lugar": "Vecinal Sur, entre San Francisco y Océano Atlántico",
       "dia": "Miércoles y Sábado"
     },
-    {
-      "comuna": "Estación Central",
-      "nombre": "RIVAS VICUÑA",
-      "lugar": "Manuel Rivas Vicuña, entre Av. Cinco de Abril y Torslan",
-      "dia": "Martes y Viernes"
-    },
+  {
+    "comuna": "San Miguel",
+    "nombre": "CHILOÉ",
+    "lugar": "Chiloé, entre Varas Mena y Av. Departamental",
+    "dia": "Viernes"
+  },
     {
       "comuna": "Estación Central",
       "nombre": "CURACAVÍ",
@@ -54,12 +54,12 @@
       "lugar": "Av. El Guanaco, entre Av. Einstein y Av. México",
       "dia": "Jueves y Domingo"
     },
-    {
-      "comuna": "La Cisterna",
-      "nombre": "BALLESTEROS",
-      "lugar": "Inés Rivas, entre Alcalde Barrera y Manuel Rengifo",
-      "dia": "Jueves y Domingo"
-    },
+  {
+    "comuna": "Lo Espejo",
+    "nombre": "BALMACEDA",
+    "lugar": "Balmaceda, entre Astaburuaga y La Sierra",
+    "dia": "Martes y Viernes"
+  },
     {
       "comuna": "La Cisterna",
       "nombre": "BRISAS DEL MAIPO",
@@ -72,6 +72,36 @@
       "lugar": "Chaitén, entre Av. Rojas Magallanes y Doctor Sótero Del Río",
       "dia": "Jueves"
     },
+      {
+    "comuna": "La Granja",
+    "nombre": "TACORA",
+    "lugar": "Av. Sur, entre Los Vilos y El Tabo",
+    "dia": "Miércoles y Sábado"
+  },
+    {
+    "comuna": "La Pintana",
+    "nombre": "JOHN KENNEDY",
+    "lugar": "John Kennedy, entre General Bernardino Parada y Julio Barrenechea",
+    "dia": "Miércoles y Sábado"
+  },
+  {
+    "comuna": "La Pintana",
+    "nombre": "VEINTIUNO DE MAYO",
+    "lugar": "General Bernardino Parada, entre José Toribio Medina y Profesor Julio",
+    "dia": "Martes y Viernes"
+  },
+    {
+    "comuna": "Maipú",
+    "nombre": "EL ABRAZO",
+    "lugar": "Av. Las Industrias, entre Av. Cuatro Poniente y Egipto",
+    "dia": "Jueves y Domingo"
+  },
+    {
+    "comuna": "Puente Alto",
+    "nombre": "CASAS VIEJAS 1",
+    "lugar": "Laja, entre Av. Circunvalación Charles Aránguiz y Marcos Pérez",
+    "dia": "Martes"
+  },  
     {
       "comuna": "Vitacura",
       "nombre": "CLUB DE POLO",
