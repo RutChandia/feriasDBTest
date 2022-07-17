@@ -1,4 +1,5 @@
-{[
+{
+"ferias" : [
   {
     "comuna": "Cerrillos",
     "nombre": "SAN MARTÍN",
@@ -347,4 +348,5 @@
     "lugar": "Escrivá de Balaguer y Luis Carrera",
     "dia": "Jueves y Viernes"
   }
-]}
+]
+}
