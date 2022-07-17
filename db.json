@@ -1,0 +1,350 @@
+[
+  {
+    "comuna": "Cerrillos",
+    "nombre": "SAN MARTÍN",
+    "lugar": "Arturo Prat, entre Santa Teresita y 14 de Octubre",
+    "dia": "Miércoles y Sábado"
+  },
+  {
+    "comuna": "Cerro Navia",
+    "nombre": "SARA GAJARDO",
+    "lugar": "Lo López, entre Neptuno y Domingo Faustino Sarmiento",
+    "dia": "Martes y Viernes"
+  },
+  {
+    "comuna": "Cerro Navia",
+    "nombre": "LA CAPILLA",
+    "lugar": "La Capilla, entre Resbalón y Huelén",
+    "dia": "Martes y Viernes"
+  },
+  {
+    "comuna": "Conchalí",
+    "nombre": "NAHUELBUTA",
+    "lugar": "Nahuelbuta, entre Dos Oriente y Puntiagudo",
+    "dia": "Jueves"
+  },
+  {
+    "comuna": "Conchalí",
+    "nombre": "LOS ACACIOS",
+    "lugar": "Av. Cardenal Caro, entre Los Acacios e Ignacio Carrera Pinto",
+    "dia": "Jueves"
+  },
+  {
+    "comuna": "El Bosque",
+    "nombre": "VECINAL SUR",
+    "lugar": "Vecinal Sur, entre San Francisco y Océano Atlántico",
+    "dia": "Miércoles y Sábado"
+  },
+  {
+    "comuna": "El Bosque",
+    "nombre": "SANTA ELENA",
+    "lugar": "Los Sauces, entre Los Paltos y Los Boldos",
+    "dia": "Jueves y Domingo"
+  },
+  {
+    "comuna": "Estación Central",
+    "nombre": "RIVAS VICUÑA",
+    "lugar": "Manuel Rivas Vicuña, entre Av. Cinco de Abril y Torslan",
+    "dia": "Martes y Viernes"
+  },
+  {
+    "comuna": "Estación Central",
+    "nombre": "CURACAVÍ",
+    "lugar": "Av. Curacaví, entre Av. Cinco de Abril y Av. Las Parcelas",
+    "dia": "Martes y Viernes"
+  },
+  {
+    "comuna": "Huechuraba",
+    "nombre": "AGUIRRE LUCO",
+    "lugar": "Carlos Aguirre Luco, entre Elías Lafferte y Las Torres",
+    "dia": "Martes"
+  },
+  {
+    "comuna": "Independencia",
+    "nombre": "GUANACO SUR",
+    "lugar": "Av. El Guanaco, entre Av. Einstein y Av. México",
+    "dia": "Jueves y Domingo"
+  },
+  {
+    "comuna": "Independencia",
+    "nombre": "COLÓN",
+    "lugar": "Colón, entre Av. Fermín Vivaceta y Coronel Agustín López de Alcázar",
+    "dia": "Jueves y Domingo"
+  },
+  {
+    "comuna": "La Cisterna",
+    "nombre": "BALLESTEROS",
+    "lugar": "Inés Rivas, entre Alcalde Barrera y Manuel Rengifo",
+    "dia": "Jueves y Domingo"
+  },
+  {
+    "comuna": "La Cisterna",
+    "nombre": "BRISAS DEL MAIPO",
+    "lugar": "Brisas del Maipo, entre Industrias y Letras",
+    "dia": "Martes y Viernes"
+  },
+  {
+    "comuna": "La Florida",
+    "nombre": "CHAITÉN",
+    "lugar": "Chaitén, entre Av. Rojas Magallanes y Doctor Sótero Del Río",
+    "dia": "Jueves"
+  },
+  {
+    "comuna": "La Florida",
+    "nombre": "VILLA O'HIGGINS 1",
+    "lugar": "Avenida Uno, entre José Miguel Carrera Poniente y Av. Trinidad Poniente",
+    "dia": "Miércoles"
+  },
+  {
+    "comuna": "La Granja",
+    "nombre": "EX INDUSTRIALES",
+    "lugar": "Calle O, entre Padre Esteban Gumucio y Av. Lo Ovalle",
+    "dia": "Jueves y Domingo"
+  },
+  {
+    "comuna": "La Granja",
+    "nombre": "TOMÉ",
+    "lugar": "Av. Tomé, entre Av. Santa Rosa y Los Vilos",
+    "dia": "Martes y Viernes"
+  },
+  {
+    "comuna": "La Pintana",
+    "nombre": "VEINTIUNO DE MAYO",
+    "lugar": "General Bernardino Parada, entre José Toribio Medina y Profesor Julio",
+    "dia": "Martes y Viernes"
+  },
+  {
+    "comuna": "La Pintana",
+    "nombre": "JULIO RAMÍREZ",
+    "lugar": "Julio Barrenechea, entre San Francisco y Profesor Julio Chávez",
+    "dia": "Jueves"
+  },
+  {
+    "comuna": "La Reina",
+    "nombre": "TOBALABA",
+    "lugar": "Av. Tobalaba, entre Av. Príncipe de Gales y Aguas Claras",
+    "dia": "Miércoles y Sábado"
+  },
+  {
+    "comuna": "La Reina",
+    "nombre": "CHACAREROS DE LA REINA",
+    "lugar": "Av. Francisco Bilbao, entre Florencio Barrios y Av. Padre Hurtado",
+    "dia": "Martes y Sábado"
+  },
+  {
+    "comuna": "Las Condes",
+    "nombre": "LOS DOMINICOS",
+    "lugar": "Los Dominicos, entre Av. Apoquindo y Camino El Alba",
+    "dia": "Sábado"
+  },
+  {
+    "comuna": "Lo Barnechea",
+    "nombre": "LOS QUINCHEROS",
+    "lugar": "Los Quincheros con El Esfuerzo",
+    "dia": "Sábado"
+  },
+  {
+    "comuna": "Lo Barnechea",
+    "nombre": "PERSA LO BARNECHEA",
+    "lugar": "Padre Arteaga, entre Raúl Labbé y Cuatro Vientos",
+    "dia": "Domingo"
+  },
+  {
+    "comuna": "Lo Espejo",
+    "nombre": "JOSÉ MARÍA CARO",
+    "lugar": "Av. Fernández Albano, entre Av. Central y Ferrocarril",
+    "dia": "Jueves y Domingo"
+  },
+  {
+    "comuna": "Lo Espejo",
+    "nombre": "PABLO NERUDA",
+    "lugar": "Pablo Neruda, entre 9 de Enero y Balmaceda",
+    "dia": "Jueves y Domingo"
+  },
+  {
+    "comuna": "Lo Prado",
+    "nombre": "IBIS",
+    "lugar": "Ibis, entre Ovalle e Isla Decepción",
+    "dia": "Miércoles y Sábado"
+  },
+  {
+    "comuna": "Lo Prado",
+    "nombre": "LAS TORRES",
+    "lugar": "Av. Las Torres, entre San Pablo y Los Copíhues",
+    "dia": "Miércoles y Sábado"
+  },
+  {
+    "comuna": "Maipú",
+    "nombre": "GUAYAQUIL",
+    "lugar": "O'Higgins, entre Av. De la Victoria y El Olimpo",
+    "dia": "Martes y Viernes"
+  },
+  {
+    "comuna": "Maipú",
+    "nombre": "LOS HÉROES",
+    "lugar": "Hermógenes Pérez de Arce, entre Alfredo Silva Carvallo y Andrés Amenábar Vergara",
+    "dia": "Miércoles y Sábado"
+  },
+  {
+    "comuna": "Ñuñoa",
+    "nombre": "MATTA ORIENTE",
+    "lugar": "Matta Oriente, entre Av. Irarrázaval y Lo Encalada",
+    "dia": "Miércoles y Sábado"
+  },
+  {
+    "comuna": "Pedro Aguirre Cerda",
+    "nombre": "CENTRO AMÉRICA",
+    "lugar": "Centro América, entre Av. Central y Haití",
+    "dia": "Jueves y Domingo"
+  },
+  {
+    "comuna": "Pedro Aguirre Cerda",
+    "nombre": "FÉLIX MENDELSSOHN",
+    "lugar": "Félix Mendelssohn, entre Av. Lazo y Av. La Marina",
+    "dia": "Miércoles y Sábado"
+  },
+  {
+    "comuna": "Peñalolén",
+    "nombre": "DEPARTAMENTAL",
+    "lugar": "Av. Departamental, entre Los Clarines y Los Cerezos",
+    "dia": "Jueves y Domingo"
+  },
+  {
+    "comuna": "Peñalolén",
+    "nombre": "LOS PRESIDENTES",
+    "lugar": "Caracas, entre Av. Los Presidentes y Bolívar",
+    "dia": "Miércoles y Sábado"
+  },
+  {
+    "comuna": "Providencia",
+    "nombre": "SANTA MARÍA",
+    "lugar": "Av. Santa María, entre Calle del Arzobispo y Los Piñones",
+    "dia": "Jueves y Domingo"
+  },
+  {
+    "comuna": "Pudahuel",
+    "nombre": "LA ESTRELLA",
+    "lugar": "Av. La Estrella, entre Av. Laguna Sur y Av. Los Mares",
+    "dia": "Jueves y Domingo"
+  },
+  {
+    "comuna": "Pudahuel",
+    "nombre": "SERRANO",
+    "lugar": "Serrano, entre San Daniel y Yungay",
+    "dia": "Jueves y Domingo"
+  },
+  {
+    "comuna": "Puente Alto",
+    "nombre": "LOS NOGALES 1",
+    "lugar": "Miguel Ángel, entre Av. Ejército Libertador y Creta",
+    "dia": "Martes"
+  },
+  {
+    "comuna": "Puente Alto",
+    "nombre": "LOS NOGALES 2",
+    "lugar": "Ulises, entre Av. Gabriela y Venus",
+    "dia": "Miércoles"
+  },
+  {
+    "comuna": "Quilicura",
+    "nombre": "LO MARCOLETA 2",
+    "lugar": "Av. Lo Marcoleta, entre San Luis y Colo Colo",
+    "dia": "Miércoles"
+  },
+  {
+    "comuna": "Quilicura",
+    "nombre": "LO MARCOLETA 3",
+    "lugar": "Av. Lo Marcoleta, entre Libertador Bernardo O'Higgins y Lo Ovalle",
+    "dia": "Jueves"
+  },
+  {
+    "comuna": "Quinta Normal",
+    "nombre": "ALBERDI 1",
+    "lugar": "Alberdi, entre Salvador Gutiérrez y Hoevel",
+    "dia": "Jueves y Domingo"
+  },
+  {
+    "comuna": "Quinta Normal",
+    "nombre": "EX LA PLATA",
+    "lugar": "Augusto Matte, entre Av. Carrascal y Mapocho",
+    "dia": "Domingo"
+  },
+  {
+    "comuna": "Recoleta",
+    "nombre": "LA SERENA",
+    "lugar": "Av. La Serena, entre Av. Recoleta y Av. Cardenal Caro",
+    "dia": "Domingo"
+  },
+  {
+    "comuna": "Recoleta",
+    "nombre": "HUECHURABA-RECOLETA",
+    "lugar": "San José, entre Av. Zapadores y Enrique Donoso",
+    "dia": "Jueves"
+  },
+  {
+    "comuna": "Recoleta",
+    "nombre": "VALDIVIESO",
+    "lugar": "Av. Arzobispo Valdivieso, entre Alicante y Siete Norte",
+    "dia": "Viernes"
+  },
+  {
+    "comuna": "Renca",
+    "nombre": "MANUEL RODRÍGUEZ",
+    "lugar": "Manuel Rodríguez, entre Río Huasco y Calle del Cerro",
+    "dia": "Miércoles"
+  },
+  {
+    "comuna": "San Bernardo",
+    "nombre": "EL MANZANO 3",
+    "lugar": "Av. Lo Blanco, entre Pasaje Drake e Incahuasi",
+    "dia": "Jueves y Domingo"
+  },
+  {
+    "comuna": "San Bernardo",
+    "nombre": "CARVALLO",
+    "lugar": "Ramón Liborio Carvallo, entre Barros Arana y Victoria",
+    "dia": "Sábado"
+  },
+  {
+    "comuna": "San Joaquín",
+    "nombre": "LAS INDUSTRIAS",
+    "lugar": "Vecinal, entre Carmen Mena y Pasaje Anay",
+    "dia": "Martes y Viernes"
+  },
+  {
+    "comuna": "San Miguel",
+    "nombre": "ATACAMA",
+    "lugar": "Cuarta Avenida, entre Cuarta Transversal y Quinta Transversal",
+    "dia": "Miércoles y Sábado"
+  },
+  {
+    "comuna": "San Miguel",
+    "nombre": "SOTO AGUILAR",
+    "lugar": "Soto Aguilar, entre San Ignacio y Barros Luco",
+    "dia": "Jueves y Domingo"
+  },
+  {
+    "comuna": "San Ramón",
+    "nombre": "LA BANDERA",
+    "lugar": "Av. La Bandera, entre Vicuña Mackenna y Esperanza",
+    "dia": "Jueves y Domingo"
+  },
+  {
+    "comuna": "San Ramón",
+    "nombre": "BOLIVIA",
+    "lugar": "Bolivia, entre Pedro Aguirre Cerda y Cárlos Dávila",
+    "dia": "Miércoles y Sábado"
+    },
+  {
+    "comuna": "Santiago",
+    "nombre": "HERRERA",
+    "lugar": "Herrera, entre Av. San Pablo y Mapocho",
+    "dia": "Martes y Miércoles"
+  },
+  {
+    "comuna": "Vitacura",
+    "nombre": "CLUB DE POLO",
+    "lugar": "Escrivá de Balaguer y Luis Carrera",
+    "dia": "Jueves y Viernes"
+  },
+]
